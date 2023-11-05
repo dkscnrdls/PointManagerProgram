@@ -7,4 +7,4 @@ alpha-1.0.0v
 
 폴더와 파일을 수동으로 생성
 
-https://github.com/dkscnrdls/PointManagerProgram/releases/tag/alpha-1.0.0v
+alpha-1.0.0v : https://github.com/dkscnrdls/PointManagerProgram/releases/tag/alpha-1.0.0v
